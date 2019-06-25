@@ -1,0 +1,11 @@
+{
+    "port": 7080,
+    "gitlab_webhooks": [
+        {
+            "x_gitlab_token": "Your repository integration token",
+            "discord_webhooks": [
+                "A webhook url"
+            ]
+        }
+    ]
+}
